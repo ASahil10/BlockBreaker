@@ -104,7 +104,7 @@ Implement the missing requirements or confirm acceptance of this variation with 
 
 ## Group Contributions
 
-Group members: [add names and student IDs]
+Group members: Sahil Asifi, Burhanuddin Mohammed
 
 Starting sketch: AI-assisted code based on the Processing tutorial concepts.
 
